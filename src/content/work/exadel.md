@@ -1,7 +1,7 @@
 ---
-company: "Google"
-role: "Staff Software Engineer"
-dateStart: "11/27/2022"
+company: "Exadel"
+role: "Senior Software Engineer"
+dateStart: "08/08/2019"
 dateEnd: "Current"
 ---
 
